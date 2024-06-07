@@ -1,0 +1,25 @@
+{
+  "name": "my-atmkkk",
+  "version": "1.0.0",
+  "description": "atm machine",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "my-atm": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "rimsha ather",
+  "license": "MIT",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@types/node": "^20.12.12",
+    "D": "^1.0.0",
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
